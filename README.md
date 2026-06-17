@@ -37,4 +37,4 @@ Then it aggregates the data and generates:
 ### Run analysis on a log file:
 
 ```bash
-python log_analyzer_v3.py real_auth.log
+python log_analyzer_v1.py real_auth.log
